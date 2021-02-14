@@ -46,6 +46,11 @@
                 "version": "11.3.2",
                 "variant": "gapps",
                 "url": "/releases/files/proton-aosp_redfin-factory_11.3.2-gapps.zip"
+            },
+            {
+                "version": "1.0.0",
+                "variant": "minimal",
+                "url": "/NA.zip"
             }
         ]
     }

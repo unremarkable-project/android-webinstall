@@ -12,6 +12,7 @@ const DEVICE_NAMES = {
     sunfish: "Pixel 4a",
     bramble: "Pixel 4a 5G",
     redfin: "Pixel 5",
+    yukawa: "Unremarkable",
 };
 
 export function getDeviceName(device) {
