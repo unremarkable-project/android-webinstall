@@ -2,7 +2,7 @@
 
 This is an easy-to-use web installer for Android-based operating systems that runs entirely in the browser. It uses WebUSB, which is supported by Chromium and its derivatives, and [fastboot.js](https://github.com/kdrag0n/fastboot.js) library for flashing. This allows it to work on computers and Android devices software with no additional software or command-line tools.
 
-![Screenshot of an install in progress on a desktop computer](https://user-images.githubusercontent.com/7930239/107459937-10c41e80-6b0c-11eb-8fbc-6882145f164f.png)
+![Screenshot of an install in progress on a desktop computer](https://i.ibb.co/khjYhRn/Screen-Shot-2021-02-14-at-3-28-29-PM.png)
 
 ## Install process
 
